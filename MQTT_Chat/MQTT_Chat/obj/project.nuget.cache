@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHtOcXQdgrpWlnALBK5X089gTfq2G8P4UUszZ5csQd86jAzbpHK1EDj50qPMFtq7A6CWm/GrWiQWq2ykLublrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ea515\\source\\repos\\MQTT_Chat\\MQTT_Chat\\MQTT_Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ea515\\.nuget\\packages\\mqttnet\\4.2.1.781\\mqttnet.4.2.1.781.nupkg.sha512",
+    "C:\\Users\\ea515\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.2.1.781\\mqttnet.extensions.managedclient.4.2.1.781.nupkg.sha512"
+  ],
+  "logs": []
+}
